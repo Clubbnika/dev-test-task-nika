@@ -2,12 +2,10 @@
 
 import React from 'react';
 
-const ItemsPage: React.FC = () => {
+export default function ItemsPage() {
   return (
     <div>
       <h1>Items</h1>
     </div>
   );
 };
-
-export default ItemsPage;

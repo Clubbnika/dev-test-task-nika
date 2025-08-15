@@ -1,9 +1,7 @@
 'use client';
 
-const Home: React.FC = () => {
+export default function Home() {
   return (
     <div>Home</div>
   );
 }
-
-export default Home;
